@@ -7,7 +7,6 @@ class Song < ActiveRecord::Base
       genre.name
       binding.pry
     end
-    
   end
 
   def drake_made_this
